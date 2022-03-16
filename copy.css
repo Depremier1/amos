@@ -1,0 +1,541 @@
+@media only screen and (min-width:510px) {
+    
+    
+    #logo{
+        
+        margin-left: 10px;
+    }
+    .dropdown-content {
+        display: none;
+        position: absolute;
+        background-color: #f9f9f9;
+        min-width: 160px;
+        box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+        z-index: 1;
+        font-weight: 600;
+      }
+      #test1{
+       
+          display: flex;
+          margin-left: 200px; 
+    }
+    #te{
+      
+        background-image: linear-gradient(180deg,rgba(150,105,97,0.67) 0%,rgba(2,0,76,0.84) 100%),url("/Final\ image/edited 3.PNG")!important;
+        background-repeat: no-repeat;
+        background-size: cover;
+       height: 500px;
+       
+    }
+    #study{
+        transform: translate(120px, -350px);
+        font-family: Open Sans,Arial,sans-serif;
+        font-size: 41px;
+        color: white;
+        /* background-color: #fff; */
+        font-weight: 700;
+        display: block;
+    
+       
+    }
+    #success{
+        transform: translate(30px, -370px);
+        text-align: center;
+        
+        font-size: 41px;
+        color: white;
+       line-height: 50px;
+        display: inline-block;
+    
+    }
+    #apply-button{
+        transform: translate(-30px, -250px);
+        height: 80px;
+        width: 150px;
+    }
+    #over{
+        font-family:Arial,sans-serif;
+        font-size: 20px;
+        color: white;
+        font-weight: 700;
+        margin-left: 15px;
+        display: inline-block;
+    }
+    #exce{
+        font-family:Arial,sans-serif;
+        font-size: 20px;
+        color: white;
+        font-weight: 700;
+        margin-left: 95px;
+        margin-top: -5px;
+        display: block;
+    
+    }
+    #reach1{
+        display: block;
+        justify-content: space-evenly;
+        margin-top: -90px;
+        margin-left: 120px;
+        margin-right: -40px;
+        
+    }
+    #reachdiv{
+        height: 40vh;
+        width: 100%;
+        background-color: rgb(0,4,66);
+        margin-left: -80px;
+        margin-top: 25px;
+        
+    }
+    #reachdivv{
+        height: 40vh;
+        width: 100%;
+        background-color: rgb(216,166,0);
+        margin-top: 30px;
+        margin-left: -80px;
+    }
+    #div2{
+        margin-left: 122px;
+        width: 90px;
+        margin-top: 20px;
+    }
+    #div3{
+        margin-left: 70px;
+        width: 210px;
+        margin-top: 1px;
+}
+#ov{
+    
+    font-size: 20px;
+    line-height: -30px;
+    color: white;
+    font-weight: 700;
+    margin-left: 75px;
+    /* display: block; */
+}
+#ove{
+    font-family:Arial,sans-serif;
+    font-size: 20px;
+    color: white;
+    font-weight: 700;
+    margin-left: 67px;
+    display: block;
+}
+#div4{
+    margin-left: 75px;
+    width: 210px;
+    margin-top: 15px;
+}
+#ov{
+    line-height: 50px;
+}
+#sin{
+    line-height: 35px;
+    margin-top: -30px;
+}
+#glance{
+    height: 700px;
+    width: 100%;
+}
+#glanc{
+transform: translate(75px, 70px);
+}
+#glan{
+color: white;
+margin-left: 25px;
+margin-top: 80px;
+/* font-weight: 600; */
+text-align: justify;
+line-height: 25px;
+font-size: 16px;
+margin-right: 25px;
+
+
+
+}
+#gla{
+height: 50px;
+width: 140px;
+/* background-color: blue; */
+border-radius: 1px;
+border: solid white;
+transform: translate(130px, 30px);
+}
+#choose{
+font-size: 50px;
+}
+#why{
+font-size: 30px;
+margin-top: -50px;
+}
+#whyy{
+height: 400px;
+width: 350px;
+border: none;
+font-size: 15px;
+font-style: italic;
+line-height: 30px;
+font-weight: 400;
+/* margin-top: 90px; */
+
+}
+#why1{
+margin-top: 40px;
+margin-left: 90px;
+margin-right: 90px;
+display: table-row;
+/* justify-content: space-evenly; */
+}
+    #ima{
+        margin-left: 35px;
+    }
+    #whyyy{
+        margin-left: 20px;
+        margin-right: 0px;
+    }
+    #whyyyy{
+        margin-left: 70px;
+        text-align: center;
+    }
+    /* Testimoy section */
+    .testimony{
+font-size: 40px;
+margin-left: 50px;
+margin-top: -50px;
+
+    }
+    .testimo{
+margin-left: 30px;
+line-height: 35px;
+margin-top: -10px;
+display: block;
+    }
+    /* Review section */
+#review0{
+margin-top: -90px;
+display: table-row;
+justify-content: center;
+margin-left: 40px;
+margin-right: 70px;
+    }
+#review{
+width: 350px;
+height: 350px;
+/* margin-top: 30px; */
+
+}       
+#rate1{
+margin-top: 10px;
+margin-left: 50px;
+}
+#rate2{
+text-decoration: none;
+color: black;
+font-weight: 700;
+margin-top: -65px;
+margin-left: 130px;
+display: block;
+}
+#rate3{
+margin-left: 130px;
+width: 150px;
+}
+#ready{
+width: 160px;
+height: 40px;
+background-color: rgb(66,127,237);
+border-radius: 40px;
+margin-left: 120px;
+margin-top: 10px;
+text-align: center;
+}
+#rate4{
+margin-top: 5px;
+display: inline-block;
+color: white;
+font-weight: 600;
+text-decoration: none;
+}
+#footer{
+height: 500px;
+background-image: linear-gradient(180deg,rgba(150,105,97,0.67) 0%,rgba(0,14,71,0.84) 100%),url("./Final\ image/foot 1.PNG")!important;
+background-repeat: no-repeat;
+background-size: contain;
+margin-top: 90px;
+display: block;
+
+}
+#ready-to{
+
+color: white;
+display: inline-block;
+font-size: 50px;
+margin-top: 50px;
+margin-left: 15px;
+font-weight: 700;
+text-align: center;
+}
+#ready-too{
+
+color: white;
+display:block;
+font-size: 17px;
+margin-top: -15px;
+margin-left: 20px;
+margin-right: 20px;
+text-align: center;
+/* font-weight: 700; */
+}
+#ready-tooo{
+height: 50px;
+width: 50%;
+margin-top: 35px;
+margin-left: 100px; 
+}
+#ready-tooo:hover{
+transform: scale(1.1);
+
+}
+#ready-toooo{
+color: white;
+font-weight: 700;
+margin-top: 13px;
+margin-left: 22px;
+}
+#last3{
+width: 100px;
+margin-left: -220px;
+}
+#making{
+color: white;
+margin-top: 20px;
+font-size: 13px;
+width: 300px;
+line-height: 15px;
+display: block;
+margin-left: -225px;
+}
+#last4{
+height: 200px;
+width: 200px;
+
+/* margin-top: 70px;
+margin-left: 200px;
+margin-right: 100px; */
+transform: translate(20px, 17px);
+display: block;
+}
+#quick-link{
+color: rgb(46,163,242);
+font-size: 18px;
+font-weight: 500;
+font-family: Open Sans,Arial,sans-serif;;
+}
+#quick-link1{
+color: rgb(46,163,242);
+margin-left: -10px;
+}
+#students{
+color: white;
+text-decoration: none;
+font-size: 12px;
+}
+#last5{
+height: 200px;
+width: 200px;
+transform: translate(20px, -10px);
+display: block;
+}
+#last6{
+height: 200px;
+width: 200px;
+transform: translate(20px, -90px);
+display: block;
+}
+#foot{
+height: 700px;
+width: 100%;
+background-color: rgb(0,4,66);
+/* display: flex; */
+/* justify-content: space-between; */
+}
+}
+
+
+
+/* ------------------------------------------------------------------- */
+@media only screen and (min-width:768px) {
+    #logo{
+        
+        margin-left: 10px;
+    }
+    .dropdown-content {
+        display: none;
+        position: absolute;
+        background-color: #f9f9f9;
+        min-width: 160px;
+        box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+        z-index: 1;
+        font-weight: 600;
+      }
+      #test1{
+       
+          display: flex;
+          margin-left: 300px; 
+    }
+    #te{
+      
+        background-image: linear-gradient(180deg,rgba(150,105,97,0.67) 0%,rgba(2,0,76,0.84) 100%),url("/Final\ image/edited 3.PNG")!important;
+        background-repeat: no-repeat;
+        background-size: cover;
+       height: 500px;
+       
+    }
+    #study{
+        transform: translate(350px, -350px);
+        font-family: Open Sans,Arial,sans-serif;
+        font-size: 41px;
+        color: white;
+        /* background-color: #fff; */
+        font-weight: 700;
+        display: block;
+    
+       
+    }
+    #success{
+        transform: translate(270px, -370px);
+        text-align: center;
+        
+        font-size: 41px;
+        color: white;
+       line-height: 50px;
+        display: inline-block;
+    
+    }
+    #apply-button{
+        transform: translate(-50px, -250px);
+        height: 80px;
+        width: 150px;
+    }
+    #reach{
+        
+        font-size: 30px;
+        line-height: 30px;
+        transform: translate(200px, -80px);
+        text-align: center;
+    }
+
+
+
+}
+
+
+/* ------------------------------------------------------------------------------------------------------------------ */
+
+/* @media only screen and (min-width:992px) { */
+    
+    #logo{
+        
+        margin-left: 220px;
+    }
+    .dropdown-content {
+        display: none;
+        position: absolute;
+        background-color: #f9f9f9;
+        min-width: 160px;
+        box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+        z-index: 1;
+        font-weight: 600;
+      }
+      #test1{
+       
+          display: flex;
+         
+          margin-left: -60px;
+    }
+    .dropdown-content a {
+        float: none;
+        color: black;
+        padding: 12px 16px;
+        text-decoration: none;
+        display: block;
+        text-align: left;
+      }
+      #te{
+        /* background-image: linear-gradient(180deg,rgba(150,105,97,0.67) 0%,rgba(2,0,76,0.84) 100%); */
+        background-image: linear-gradient(180deg,rgba(150,105,97,0.67) 0%,rgba(2,0,76,0.84) 100%),url("/Final\ image/edited 3.PNG")!important;
+        background-repeat: no-repeat;
+        background-size: cover;
+    
+       height: 720px;
+        /* display:block; */
+        /* color: transparent; */
+    }
+    #study{
+        transform: translate(520px, -500px);
+        font-family: Open Sans,Arial,sans-serif;
+        font-size: 70px;
+        color: white;
+        /* background-color: #fff; */
+        font-weight: 700;
+        display: block;
+    
+       
+    }
+    #success{
+        transform: translate(380px, -530px);
+        font-family: Open Sans,Arial,sans-serif;
+        font-size: 70px;
+        color: white;
+        font-weight: 700;
+        display: inline-block;
+    
+    }
+    #apply-button{
+        height: 60px;
+        width: 170px;
+        font-family: Open Sans,Arial,sans-serif;
+        font-weight: 600;
+        /* transform: translate(-100px, -450px); */
+        transform: translate(-100px, -450px);
+        border-radius: 5px;
+        background-color: rgb(9,111,195);
+        color: white;
+        /* display:block; */
+        background-attachment: scroll;
+        animation-name: apply-butt;
+        animation-duration: 0.2s;
+        vertical-align: baseline;
+        animation-timing-function: linear;
+        
+        
+    }
+    #reach{
+        font-family: Open Sans,Arial,sans-serif;
+        font-size: 35px;
+        color: black;
+      
+        font-weight: 700;
+        transform: translate(410px, -150px);
+    }
+
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<table class="table table-dark table-sm">
+  
+</table>
